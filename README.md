@@ -1,3 +1,7 @@
+pip install datetime
+pip install timer
+
+
 # Elevator-Logic
 An animated Python elevator simulation designed to pick up passengers and take them to their destinations. 
 
